@@ -21,3 +21,13 @@ const student = {
 
 student["age"] = student["age"] + 1;
 console.log(student["age"]);
+
+const profile = {
+  post: 108,
+  height: 88,
+  followers: "444k",
+  name: "Gautam",
+  info: "lorem 300",
+};
+
+console.log(profile);
